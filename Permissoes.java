@@ -1,4 +1,4 @@
-package com.cursoandroidwhatsapp.cursoandroid.admin.ExemploPermissao.helper;
+package com.cursoandroid.cursoandroid.admin.ExemploPermissao.helper;
 
 import android.app.Activity;
 import android.app.AlertDialog;
