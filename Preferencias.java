@@ -34,7 +34,7 @@ public class Preferencias {
 
     }
 
-    //Hasgmap retorna uma lista com insices
+    //Hasgmap retorna uma `lista` com dois indices do tipo string
     public HashMap<String,String> retornaDadosusuario(){
 
         HashMap<String,String> dados = new HashMap<>();
